@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.7/20981
 // Filename: Batuco_V02.ggsk
-// Generated 2026-07-30T22:36:52
+// Generated 2026-07-30T22:54:08
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });

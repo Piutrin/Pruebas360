@@ -17,7 +17,7 @@
       <label width="180" bordercolor="0x000000" borderradius="1" wordwrap="1" textcolor="0x000000" height="20" backgroundalpha="1" enabled="1" border="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" background="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot id="01" tilt="-4.2" pan="-325.69" url="{node11}" description="" title="Comedor" target="" skinid="ht_node"/>
-      <hotspot id="03" tilt="7.21" pan="-216.75" url="" description="" title="Living" target="-38.0/-17.0/100.0" skinid="ht_node"/>
+      <hotspot id="03" tilt="7.21" pan="-216.75" url="{node15}" description="" title="Dormitorio &#xa;Simple" target="-38.0/-17.0/100.0" skinid="ht_node"/>
       <hotspot id="02" tilt="-3.55" pan="-287.17" url="{node10}" description="" title="Cocina" target="" skinid="ht_node"/>
     </hotspots>
     <media/>
