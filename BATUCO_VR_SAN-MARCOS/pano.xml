@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node12" hassounds="0" appversion="7.1.7" apprev="20981">
+  <panorama id="node12">
+    <input overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-179.799">
+      <start pan="-160" tilt="-25" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Baja" heading="-179.799" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node12" title="Living"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-158.95" description="" url="{node11}" id="01" tilt="0.51" title="Comedor" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-64.61" description="" url="{node15}" id="03" tilt="15.03" title="Dormitorio &#xa;Simple" target="-38.0/-17.0/100.0"/>
+      <hotspot skinid="ht_node_Anim" pan="-123.93" description="" url="{node10}" id="02" tilt="-0.9" title="Cocina" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-179.89">
+      <start pan="170" tilt="-14" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Baja" heading="-179.89" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node11" title="Comedor"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-126.55" description="" url="{node10}" id="06" tilt="-0.65" title="Cocina" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-344.18" description="" url="{node12}" id="04" tilt="-75.02" title="Living" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-63.88" description="" url="{node15}" id="05" tilt="15.66" title="Dormitorio &#xa;Simple" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-179.982">
+      <start pan="0" tilt="-12" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Baja" heading="-179.982" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node10" title="Cocina"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-306.69" description="" url="{node12}" id="08" tilt="-2.72" title="Living" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-275.02" description="" url="{node11}" id="09" tilt="-3.42" title="Comedor" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-350.94" description="" url="{node15}" id="07" tilt="10.48" title="Dormitorio &#xa;Simple" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="179.98">
+      <start pan="-33" tilt="-15" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Alta" heading="179.98" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node13" title="Baño &#xa;Principal"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-300.31" description="" url="{node16}" id="Point01" tilt="-2.29" title="Dormitorio &#xa;Principal" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-179.874">
+      <start pan="5" tilt="-20" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Alta" heading="-179.874" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node14" title="Dormitorio &#xa;Doble"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-107.11" description="" url="{node12}" id="Point01" tilt="-20.02" title="Living" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-180.435">
+      <start pan="-30" tilt="-30" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Alta" heading="-180.435" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node15" title="Dormitorio &#xa;Simple"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-219.6" description="" url="{node14}" id="Point01" tilt="6.25" title="Dormitorio &#xa;Doble" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-206.64" description="" url="{node16}" id="Point02" tilt="6.58" title="Dormitorio &#xa;Principal" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" width="1500" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1500" width="1500" preload="0"/>
+      <level predecode="0" height="750" width="750" preload="0"/>
+      <level predecode="1" height="375" width="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="180.343">
+      <start pan="-130" tilt="-20" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" source="" info="" tags="Planta_Alta" heading="180.343" description="" datetime="" author="" customnodeid="" longitude="" nodeid="node16" title="Dormitorio &#xa;Principal"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label borderalpha="1" textalpha="1" height="20" width="180" bordercolor="0x000000" wordwrap="1" backgroundalpha="1" textcolor="0x000000" enabled="1" border="1" background="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node_Anim" pan="-161.82" description="" url="{node13}" id="Point01" tilt="5.51" title="Baño &#xa;Principal" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-11.17" description="" url="{node15}" id="Point02" tilt="14.67" title="Dormitorio &#xa;Simple" target=""/>
+      <hotspot skinid="ht_node_Anim" pan="-10.97" description="" url="{node12}" id="Point03" tilt="-15.51" title="Living" target=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomfov="40" zoomoutpause="1" zoomafterinfov="140" enabled="1" blendcolor="0x000000"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" hideabout="0" contextprojections="0" speedwheel="1" sensitivity="8" simulatemass="1" invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" rubberband="0" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" copyright="" description="" author="" tags="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
