@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.7/20981
 // Filename: Batuco_CASA-SAN-MARCOS.ggsk
-// Generated 2026-09-01T13:41:30
+// Generated 2026-09-01T14:04:33
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -279,7 +279,7 @@ function pano2vrSkin(player,base) {
 				me._plantas.ggCurrentLogicStatePosition = newLogicStatePosition;
 				me._plantas.style.transition='right 500ms ease 0ms, top 500ms ease 0ms, opacity 500ms ease 0ms';
 				if (me._plantas.ggCurrentLogicStatePosition == 0) {
-					me._plantas.style.right='10px';
+					me._plantas.style.right='0px';
 					me._plantas.style.top='12px';
 				}
 				else {
@@ -1627,7 +1627,7 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='height : 75px;';
 		hs+='position : absolute;';
-		hs+='right : 283px;';
+		hs+='right : 278px;';
 		hs+='top : 10px;';
 		hs+='visibility : inherit;';
 		hs+='width : 131px;';
@@ -2428,8 +2428,8 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Svg 2";
-		el.ggDx=0;
-		el.ggDy=0;
+		el.ggDx=1;
+		el.ggDy=1;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_svg ";
@@ -2437,10 +2437,10 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 50px;';
-		hs+='left : calc(50% - ((50px + 0px) / 2) + 0px);';
+		hs+='left : calc(50% - ((50px + 0px) / 2) + 1px);';
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((50px + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((50px + 0px) / 2) + 1px);';
 		hs+='visibility : hidden;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
