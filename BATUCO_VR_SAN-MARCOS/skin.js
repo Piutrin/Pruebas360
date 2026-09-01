@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.7/20981
 // Filename: Batuco_CASA-SAN-MARCOS.ggsk
-// Generated 2026-09-01T14:04:33
+// Generated 2026-09-01T14:16:49
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -1625,12 +1625,12 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 75px;';
+		hs+='height : 68px;';
 		hs+='position : absolute;';
 		hs+='right : 278px;';
 		hs+='top : 10px;';
 		hs+='visibility : inherit;';
-		hs+='width : 131px;';
+		hs+='width : 120px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -1653,7 +1653,7 @@ function pano2vrSkin(player,base) {
 		el.className='ggskin ggskin_textdiv';
 		el.ggTextDiv=els;
 		el.ggId="1erpiso_Boton";
-		el.ggDx=-30;
+		el.ggDx=-28;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_text ";
@@ -1664,11 +1664,11 @@ function pano2vrSkin(player,base) {
 		hs+='bottom : 1px;';
 		hs+='color : #000000;';
 		hs+='cursor : pointer;';
-		hs+='height : 28px;';
-		hs+='left : calc(50% - ((61px + 0px) / 2) - 30px);';
+		hs+='height : 25px;';
+		hs+='left : calc(50% - ((56px + 0px) / 2) - 28px);';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
-		hs+='width : 61px;';
+		hs+='width : 56px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -1879,12 +1879,12 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 36px;';
-		hs+='left : 1px;';
+		hs+='left : 4px;';
 		hs+='opacity : 0.196;';
 		hs+='position : absolute;';
-		hs+='top : 11px;';
+		hs+='top : 8px;';
 		hs+='visibility : hidden;';
-		hs+='width : 69px;';
+		hs+='width : 56px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -1982,12 +1982,12 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 36px;';
-		hs+='left : 1px;';
+		hs+='left : 4px;';
 		hs+='opacity : 0.588;';
 		hs+='position : absolute;';
-		hs+='top : 11px;';
+		hs+='top : 8px;';
 		hs+='visibility : inherit;';
-		hs+='width : 69px;';
+		hs+='width : 56px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -2276,7 +2276,7 @@ function pano2vrSkin(player,base) {
 				me._togglefloorplant.ggCurrentLogicStatePosition = newLogicStatePosition;
 				me._togglefloorplant.style.transition='right 500ms ease 0ms, top 500ms ease 0ms, background-color 100ms ease 0ms, border-color 0s';
 				if (me._togglefloorplant.ggCurrentLogicStatePosition == 0) {
-					me._togglefloorplant.style.right='284px';
+					me._togglefloorplant.style.right='275px';
 					me._togglefloorplant.style.top='207px';
 				}
 				else {
