@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.7/20981
 // Filename: 
-// Generated 2026-11-26T20:25:09
+// Generated 2026-11-26T20:32:33
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnails', 2, false, { ignoreInState: 0  });
@@ -4456,7 +4456,7 @@ function pano2vrSkin(player,base) {
 		
 player.on("viewerinit", function () {
     if (player.getIsMobile()) {
-        player.setFov(60);
+        player.setFov(50);
     } else {
         player.setFov(90);
     }
